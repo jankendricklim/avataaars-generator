@@ -50,6 +50,7 @@
       "style": "import-sort-style-renke"
     }
   },
+	"homepage": ".",
   "prettier": {
     "tabWidth": 2,
     "useTabs": false,
